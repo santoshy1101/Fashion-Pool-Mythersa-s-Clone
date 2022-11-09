@@ -1,0 +1,36 @@
+.text{
+
+        position: relative;
+       right: 90px;
+       top: 140px; 
+        text-align: right;
+        color: white;
+
+}
+
+
+
+.hmT_btn{
+        position: absolute;
+        top: 8px;
+        right: 10px;
+        color: rgb(49, 44, 44);
+        
+        
+}
+
+.hmT2{
+       border-bottom: 1px solid rgb(188, 183, 183);
+    background-color: rgb(246, 246, 246);
+        /* width: 80%; */
+        padding: 20px;
+        margin: 0 auto;
+}
+.hmT_btn_shop{
+        position: absolute;
+        top: 8px;
+        /* right: 10px; */
+        color: white;
+      
+}
+
