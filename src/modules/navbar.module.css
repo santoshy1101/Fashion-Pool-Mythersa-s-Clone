@@ -1,10 +1,6 @@
 .linkActive {
     text-decoration: none;
-    color: white;
-    font-weight: 600;
-    border-radius: 10%;
-    background: black;
-    padding: 2px 15px;
+    color: black;
 }
 
 .linkDefault {

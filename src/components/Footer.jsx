@@ -2,7 +2,7 @@ import { Box, Stack, Input, GridItem, Text, Flex, Button, SimpleGrid, Divider, I
 import { AiFillLinkedin, AiFillFacebook, AiFillTwitterSquare, AiFillInstagram, AiFillYoutube } from 'react-icons/ai';
 
 function Footer() {
-    return (<Box w={{ lg: '100%', md: '90%', sm: '90%' }} margin='auto'  mt='9rem'>
+    return (<Box w={{ lg: '75%', md: '90%', sm: '90%' }} margin='auto' mt='9rem'>
 
         <Divider mb={{ lg: '7', md: '3', sm: '3' }} />
 
@@ -15,7 +15,7 @@ function Footer() {
 
         <Divider mt={{ lg: '7', md: '3', sm: '3' }} mb={2} />
 
-        <SimpleGrid columns={{ lg: '4', md: '1', sm: '1' }} spacing={70} >
+        <SimpleGrid columns={{ lg: '4', md: '1', sm: '1' }} spacing={70}>
             <GridItem display={{ lg: 'inline-block', md: 'none', sm: 'none' }}>
                 <Stack spacing={3}>
                     <Text>SERVICE & SECURITY</Text>
